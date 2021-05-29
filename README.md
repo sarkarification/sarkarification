@@ -1,16 +1,21 @@
 ### Hi there 👋
+<img src="GitBanner.png"
+     alt="Markdown Monster icon"
+     style="margin-top: 2rem; margin-bottom: 1rem;"/>
 
-<!--
-**sarkarification/sarkarification** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Likhan Sarkar, 25 years old. I am a Full Stack Developer Working at <a href="https://www.wipro.com/">Wipro Technologies Limited</a>. 
 
-Here are some ideas to get you started:
 
-🔭 I’m currently working on React.Js
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🔭 I’m currently working on MERN
+- 🌱 I’m currently coding in HackerRank.
+- 🤔 I’m looking for help with Data Structures.
+- 📫 Connect with me: <a href="https://www.linkedin.com/in/likhan-sarkar/">LinkedIn</a> , <a href="https://www.facebook.com/likhan.trueblue/">Facebook</a> , <a href="https://www.instagram.com/_sarkarification_/">Instagram</a>.
+- 😄 Pronouns: he/him
+
+
+
+
+
+
