@@ -9,8 +9,8 @@
 ---
 
 - 🔭 I’m currently working on MERN
-- 🌱 I’m currently coding in HackerRank.
-- 🤔 I’m looking for help with Data Structures.
+- 🌱 I’m currently coding in HackerRank/LeetCode.
+- 🤔 I’m looking for help with Data Structures and Algorithms.
 - 📫 Connect with me: <a href="https://www.linkedin.com/in/likhan-sarkar/">LinkedIn</a> , <a href="https://www.facebook.com/likhan.trueblue/">Facebook</a> , <a href="https://www.instagram.com/_sarkarification_/">Instagram</a>.
 - 😄 Pronouns: he/him
 
