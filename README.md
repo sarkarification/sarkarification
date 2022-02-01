@@ -3,7 +3,7 @@
      alt="Markdown Monster icon"
      style="margin-top: 2rem; margin-bottom: 1rem;"/>
 
-### I am Likhan Sarkar, 25 years old. I am a Full Stack Developer Working at <a href="https://www.wipro.com/">Wipro Technologies Limited</a>. 
+### I am Likhan Sarkar, 25 years old. I am a Full Stack Developer Working at <a href="https://www.jll.co.uk/">Jones Lang Lasalle</a>. 
 
 
 ---
