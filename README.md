@@ -3,7 +3,7 @@
      alt="Markdown Monster icon"
      style="margin-top: 2rem; margin-bottom: 1rem;"/>
 
-### I am Likhan Sarkar, 28 years old. I am a Full Stack Developer Working at <a href="https://www.thermofisher.com/uk/en/home.html/">Thermo Fisher Scientific</a>. 
+### I am Likhan Sarkar. I am a Senior Software Engineer working at <a href="https://www.thermofisher.com/uk/en/home.html/">Thermo Fisher Scientific</a>. 
 
 
 ---
